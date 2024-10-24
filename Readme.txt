@@ -1,3 +1,4 @@
-Prueba git
-Git local repository
-Third line on work's laptop
+Prueba git.
+Git local repository.
+Third line on work's laptop.
+New user is collaborating.
